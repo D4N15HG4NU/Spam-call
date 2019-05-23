@@ -20,3 +20,4 @@ cd Spam-call
 
 ls
 
+php call.php
